@@ -1,13 +1,13 @@
 # meu-primeiro-repo
 
-Repositorio de teste para aprender o fluxo de Pull Requests com GitHub CLI.
+Repositório de teste para aprender o fluxo de Pull Requests com GitHub CLI.
 
 ## Como usar
 
-1. Clone o repositorio
-2. Faça suas alteraçoes
+1. Clone o repositório
+2. Faça suas alterações
 3. Abra um Pull Request
 
 ## Contribuindo
 
-Sinta-se a vontade para contribuir com melhorias.
+Sinta-se à vontade para contribuir com melhorias.
